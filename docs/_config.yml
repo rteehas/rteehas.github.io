@@ -35,6 +35,8 @@ rounded_corners: true                   # Enable (default) rounded corners on bo
 # Build settings
 remote_theme: peterdesmet/petridish@1.1
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 plugins:
   - jekyll-feed
   - jekyll-sitemap

@@ -5,16 +5,16 @@ background: /assets/img/DSC_1306.jpg
 permalink: /
 ---
 
-<div class="row"> 
+<div class="row">
 <div class="col-sm-auto" markdown = "1">
   <font size="6">Interests</font>
   - **Generative Models**
   - **Ethical AI**
   - **Probabilistic Programming**
-  - **Evolutionary Computation and Autopoesis**
+  - **Graph Methods**
   - **Compositionality**
 </div>
-<div class="col-sm-auto" markdown = "1"> 
+<div class="col-sm-auto" markdown = "1">
   <font size="6">Education</font>
   - **MS in Computer Science, 2018**  
   <span style="opacity:0.5">The University of Chicago</span>
@@ -22,4 +22,3 @@ permalink: /
   <span style="opacity:0.5">The University of Chicago</span>
 </div>
 </div>
-

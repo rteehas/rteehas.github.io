@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <div class="row" style="width: 959px; margin: 0 auto"> 
-<div class="column" markdown = "1" style="padding-left: 150px">
+<div class="column" markdown = "1">
   <font size="6">Interests</font>
   - **Deep Learning**
   - **Generative Models**

@@ -27,5 +27,5 @@ permalink: /
 
 Hi! I am a software engineer at Charles River Analytics and ML researcher broadly interested in machine cognition and statistical inference. My work at CRA has focused on Monte-Carlo Methods, probabilistic programming, and full-stack development.
 
-Outside of industry, I am a contributer to and member of [Eleuther AI](https://www.eleuther.ai/) and recently collaborated on a number of submissions to the [Google BIG-Bench](https://github.com/google/BIG-bench) project, developing benchmarks to evaluate Large Language Models. Take a look at some of my other projects [here](rteehas.github.io/projects/).
+Outside of industry, I am an open-source contributer to [Eleuther AI](https://www.eleuther.ai/) and recently collaborated on a number of submissions to the [Google BIG-Bench](https://github.com/google/BIG-bench) project, developing benchmarks to evaluate Large Language Models. Take a look at some of my other projects [here](rteehas.github.io/projects/).
 

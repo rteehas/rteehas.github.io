@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <div class="row">
-<div class="col-sm-auto" markdown = "1">
+<div class="col-sm-auto" markdown = "1" style="margin:auto">
   <font size="6">Interests</font>
   - **Generative Models**
   - **Ethical AI**
@@ -14,7 +14,7 @@ permalink: /
   - **Graph Methods**
   - **Compositionality**
 </div>
-<div class="col-sm-auto" markdown = "1">
+<div class="col-sm-auto" markdown = "1" style="margin:auto">
   <font size="6">Education</font>
   - **MS in Computer Science, 2018**  
   <span style="opacity:0.5">The University of Chicago</span>

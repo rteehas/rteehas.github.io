@@ -5,7 +5,7 @@ permalink: /publications/
 
 ### Bias and Fairness
 
-Vinay Prabhu, **Ryan Teehan**, and Eniko Srivastava. Did they direct the violence or admonish it? A cautionary tale on contronomy, androcentrism and back-translation foibles. *Accepted to the EACL 2021 Workshop on African NLP*
+Vinay Prabhu, **Ryan Teehan**, and Eniko Srivastava. Did they direct the violence or admonish it? A cautionary tale on contronomy, androcentrism and back-translation foibles. *I presented this at the EACL 2021 Workshop on African NLP Poster Session, where it won a* ***Best Paper Award*** 
 
 ### Visualization
 

@@ -29,3 +29,5 @@ Hi! I am a software engineer at Charles River Analytics and ML researcher broadl
 
 Outside of industry, I am an open-source contributer to [Eleuther AI](https://www.eleuther.ai/) and recently collaborated on a number of submissions to the [Google BIG-Bench](https://github.com/google/BIG-bench) project, developing benchmarks to evaluate Large Language Models. Take a look at some of my other projects [here](rteehas.github.io/projects/).
 
+**I'm helping to organize the ML Collective [social](https://mlcollective.org/iclr-2021-open-collab-social/) at ICLR, make sure to check out some of the RFPs researchers have put out.**
+

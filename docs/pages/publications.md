@@ -9,5 +9,5 @@ Vinay Prabhu, **Ryan Teehan**, and Eniko Srivastava. Did they direct the violenc
 
 ### Visualization
 
-Vinay Prabhu, Matthew McAteer, and **Ryan Teehan**, SPICES: Survey Papers as Interactive Cheatsheet Embeddings. *Accepted to ICLR 2021 Workshop Rethinking ML Papers*
+Vinay Prabhu, Matthew McAteer, and **Ryan Teehan**, SPICES: Survey Papers as Interactive Cheatsheet Embeddings. *Presented at the Workshop Rethinking ML Papers at ICLR 2021*
 

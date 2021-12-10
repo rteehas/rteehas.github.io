@@ -10,10 +10,10 @@ permalink: /
 <div class="col-sm-auto mx-auto" markdown = "1">
   <font size="6">Interests</font>
   - **Generative Models**
-  - **Ethical AI**
+  - **Language as a Knowledge Representation**
   - **Probabilistic Programming**
-  - **Graph Methods**
   - **Compositionality**
+  - **Emergent Intelligence in Complexity**
 </div>
 <div class="col-sm-auto mx-auto" markdown = "1">
   <font size="6">Education</font>
@@ -25,10 +25,10 @@ permalink: /
 </div>
 </div>
 
-Hi! I am a software engineer at Charles River Analytics and ML researcher broadly interested in machine cognition and statistical inference. My work at CRA has focused on Monte-Carlo Methods, probabilistic programming, and full-stack development.
+Hi! I am a software engineer at Charles River Analytics and Visiting Student at the TTIC, where I am advised by Professor [Bradly Stadie](https://bstadie.github.io/). I am broadly interested in building machines with human-like reasoning ability. To do so, I think it is important to understand the role language and communication play in human reasoning, and to explore how they can be used to build general purpose machine intelligence. 
 
-Outside of industry, I am an open-source contributer to [Eleuther AI](https://www.eleuther.ai/) and recently collaborated on a number of submissions to the [Google BIG-Bench](https://github.com/google/BIG-bench) project, developing benchmarks to evaluate Large Language Models. Take a look at some of my other projects [here](rteehas.github.io/projects/).
+My work at CRA has touched on Monte-Carlo Methods, probabilistic programming, NLP, and full-stack development. Outside of industry, I split my time as an open-source contributer to [Eleuther AI](https://www.eleuther.ai/) and the Co-Chair of the Interpretability and Visualization Working Group in the [HuggingFace BigScience](https://bigscience.huggingface.co/) program. At HuggingFace, our group is studying the training dynamics and emergent properties of Large Language Models, and we are always looking for new contributors. At Eleuther, I am leading a project on building natural language rationales for incremental code changes. Check out our ongoing work in the **#contrastive** channel on the Eleuther Discord, and feel free to join in. 
 
-**I'm helping to organize the ML Collective [social](https://mlcollective.org/iclr-2021-open-collab-social/) at ICLR, make sure to check out some of the RFPs researchers have put out.**
+Take a look at some of my projects [here](rteehas.github.io/projects/)!
 
  

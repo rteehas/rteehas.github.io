@@ -13,7 +13,7 @@ permalink: /
   - **Language as a Knowledge Representation**
   - **Probabilistic Programming**
   - **Compositionality**
-  - **Emergent Intelligence in Complexity**
+  - **The Emergence of Complex Behavior in Self-Supervision**
 </div>
 <div class="col-sm-auto mx-auto" markdown = "1">
   <font size="6">Education</font>

@@ -30,6 +30,8 @@ Hi! I am a software engineer at Charles River Analytics and Visiting Student at 
 
 My work at CRA has touched on Monte-Carlo Methods, probabilistic programming, NLP, and full-stack development. Outside of industry, I split my time as an open-source contributer to [Eleuther AI](https://www.eleuther.ai/) and the Co-Chair of the Interpretability and Visualization Working Group in the [HuggingFace BigScience](https://bigscience.huggingface.co/) program. At HuggingFace, our group is studying the training dynamics and emergent properties of Large Language Models, and we are always looking for new contributors. At Eleuther, I am leading a project on building natural language rationales for incremental code changes. Check out our ongoing work in the **#contrastive** channel on the Eleuther Discord, and feel free to join in. 
 
+**Update: The [T0 language model paper](https://arxiv.org/abs/2110.08207) was accepted to ICLR 2022 as a Spotlight paper!**
+
 Take a look at some of my projects [here](rteehas.github.io/projects/)!
 
  

@@ -20,7 +20,7 @@ Kaustubh D. Dhole and 124 others (including **Ryan Teehan**), "NL-Augmenter: A F
 
 **Ryan Teehan\***, Natasha Seelam\*, Oleg Serikov\*, Miruna Clinciu\*, Shachar Mirkin\*, Eliza Szczechla\*, and Aaron Gokaslan, "Emergent Structures and Training Dynamics in Large Language Models", *Under Review at ACL Rolling Review*. 2021.
 
-Victor Sanh and 41 others (including **Ryan Teehan**), "Multitask Prompted Training Enables Zero-Shot Task Generalization", *Under Review at ICLR 2022*, 2021. https://arxiv.org/abs/2110.08207.
+Victor Sanh and 41 others (including **Ryan Teehan**), "Multitask Prompted Training Enables Zero-Shot Task Generalization", *Accepted to ICLR 2022 as a **Spotlight*** paper, 2021. https://arxiv.org/abs/2110.08207.
 
 Shahbuland Matiana\*, JR Smith\*, **Ryan Teehan**\*, Louis Castricato\*, Stella Biderman, Leo Gao, and Spencer Frazier, "Cut the CARP: Fishing for zero-shot story evaluation". *Preprint*, 2021. https://arxiv.org/abs/2110.03111.
 
